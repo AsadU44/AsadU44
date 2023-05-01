@@ -1,5 +1,12 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsadU44)  
+:man_scientist: | Md. Asad Ullah
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AsadU44)  
 
-![Profile views](https://gpvc.arturio.dev/AsadU44) 
+
+- :briefcase: Currently working at the Moffitt Cancer Center
+- :desktop_computer: Learning to deal with large-scale Omics data
+- :microscope: Research focus is on identifying cancer-associated risk factors at the molecular level
+
+
+
+
+
